@@ -263,7 +263,7 @@ module.exports = function (grunt) {
           },
           headers: {
             'host': 'www.bungie.net',
-            'X-API-Key': 'API KEY GOES HERE'
+            'X-API-Key': 'dda6142418ea4acc9cb2adc44ea541e8'
           }
         }]
       },
